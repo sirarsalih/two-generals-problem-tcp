@@ -4,5 +4,6 @@ A simple TCP host-client written in C# demonstrating the <a href="http://en.wiki
 
 In the following order:
 
-  1. Build and run the TCPHost solution.
-  2. Build and run the TCPClient solution.
+  1. Open the TCPHost solution.
+  2. Build and run the TCPHost project.
+  2. Build and run the TCPClient project.
